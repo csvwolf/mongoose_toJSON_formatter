@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-tojson-formatter",
+  "version": "1.0.0",
+  "description": "format toJSON function: rename _id to id Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csvwolf/mongoose_toJSON_formatter.git"
+  },
+  "keywords": [
+    "format",
+    "toJSON",
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "skyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csvwolf/mongoose_toJSON_formatter/issues"
+  },
+  "homepage": "https://github.com/csvwolf/mongoose_toJSON_formatter#readme"
+}
